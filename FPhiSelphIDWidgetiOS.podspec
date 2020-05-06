@@ -18,9 +18,7 @@ Pod::Spec.new do |spec|
   spec.name         = "FPhiSelphIDWidgetiOS"
   spec.version      = "0.0.1"
   spec.summary      = "A short description of FPhiSelphIDWidgetiOS."
-
-  spec.version      = "0.0.1"
-  spec.summary      = "A short description of FPhiSelphIDWidgetiOS."
+  spec.ios.deployment_target  = '9.0'
   spec.static_framework = true
 
   # This description is used to generate tags and improve search results.
