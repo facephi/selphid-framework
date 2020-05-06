@@ -39,7 +39,7 @@ spec.description  = <<-DESC
               }
 
   spec.author             = { "Carlos Fernandez" => "cfernandez@facephi.com" }
-  spec.source       = { :git => "https://github.com/facephi/selphid-framework.git" :tag => "0.0.1" }
+  spec.source       = { :git => "https://github.com/facephi/selphid-framework.git", :tag => "0.0.1" }
 
   spec.ios.vendored_frameworks = "FPhiSelphIDWidgetiOS.framework"
   spec.public_header_files = "FPhiSelphIDWidgetiOS.framework/Headers/*.h"
