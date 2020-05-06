@@ -19,7 +19,6 @@ Pod::Spec.new do |spec|
   spec.version      = "0.0.1"
   spec.summary      = "A short description of FPhiSelphIDWidgetiOS."
   spec.ios.deployment_target  = "10.0"
-  spec.pod_target_xcconfig = {"ENABLE_BITCODE" => "NO"}
   spec.static_framework = true
 
   # This description is used to generate tags and improve search results.
