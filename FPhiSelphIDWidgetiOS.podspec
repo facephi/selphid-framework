@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "FPhiSelphIDWidgetiOS"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A short description of FPhiSelphIDWidgetiOS."
   spec.ios.deployment_target  = "10.0"
   spec.static_framework = true
@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-spec.description  = <<-DESC
+  spec.description  = <<-DESC
   An extended description of MyFramework project.
   DESC
   spec.homepage     = "http://your.homepage/here"
@@ -37,7 +37,7 @@ spec.description  = <<-DESC
               }
 
   spec.author             = { "Carlos Fernandez" => "cfernandez@facephi.com" }
-  spec.source       = { :git => "https://github.com/facephi/selphid-framework.git", :tag => "0.0.1" }
+  spec.source       = { :git => "https://github.com/facephi/selphid-framework.git", :tag => "0.0.2" }
 
   spec.ios.vendored_frameworks = "FPhiSelphIDWidgetiOS.framework"
   spec.public_header_files = "FPhiSelphIDWidgetiOS.framework/Headers/*.h"
