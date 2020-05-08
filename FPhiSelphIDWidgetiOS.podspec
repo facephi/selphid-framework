@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "FPhiSelphIDWidgetiOS"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "A short description of FPhiSelphIDWidgetiOS."
   spec.ios.deployment_target  = "10.0"
   spec.static_framework = true
@@ -37,12 +37,12 @@ Pod::Spec.new do |spec|
               }
 
   spec.author             = { "Carlos Fernandez" => "cfernandez@facephi.com" }
-  spec.source       = { :git => "https://github.com/facephi/selphid-framework.git", :tag => "0.0.3" }
+  spec.source       = { :git => "https://github.com/facephi/selphid-framework.git", :tag => "0.0.4" }
 
   spec.ios.vendored_frameworks = "FPhiSelphIDWidgetiOS.framework"
   spec.public_header_files = "FPhiSelphIDWidgetiOS.framework/Headers/*.h"
   spec.source_files = "FPhiSelphIDWidgetiOS.framework/Headers/*.h"
-  spec.dependency "Firebase/Analytics"
+  spec.dependency "Firebase/Analytics" , "6.22.0"
   spec.dependency "Firebase/MLVision"
   spec.dependency "Firebase/MLVisionTextModel"
 
