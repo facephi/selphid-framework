@@ -14,6 +14,8 @@ typedef NS_ENUM(NSUInteger, FPhiSelphIDWidgetDocumentType) {
     DTIDCard,
 
     DTPassport,
+    
+    DTDriversLicense,
 };
 
 typedef NS_ENUM(NSUInteger, FPhiSelphIDWidgetDocumentSide) {

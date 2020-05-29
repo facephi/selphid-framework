@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Assets/graphselphid.xml</key>
+		<data>
+		Ix6fKkXLVfdIccNih9zNi/+FOxQ=
+		</data>
 		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
 		V2ROSYH9TDZ87SKQfYmC78jkabg=
@@ -48,9 +52,21 @@
 		<data>
 		YMZ9g8BqxqpNMNpE5nyEC+or+KE=
 		</data>
+		<key>Headers/FPhiSelphIDError.h</key>
+		<data>
+		+vFlCA/CQA6HNZRS/X4XT4DGxhI=
+		</data>
+		<key>Headers/FPhiSelphIDFrameObj.h</key>
+		<data>
+		5Dz3rnODLiC46D6x8BpatQYcpaU=
+		</data>
+		<key>Headers/FPhiSelphIDProtocol.h</key>
+		<data>
+		affLrb3k4Pj/zwJ+iQIEGAZFbc4=
+		</data>
 		<key>Headers/FPhiSelphIDWidget.h</key>
 		<data>
-		ZxPSxhoXa2coRj4lElCQStlqJoY=
+		HTzFaYLMZ0KWt6zlY/lF8BDFsig=
 		</data>
 		<key>Headers/FPhiSelphIDWidgetExtractionData.h</key>
 		<data>
@@ -58,45 +74,9 @@
 		</data>
 		<key>Headers/FPhiSelphIDWidgetios.h</key>
 		<data>
-		m+SlqhI6+mCVbBlVWOGc4Uh8jIA=
+		0KHd3iMTChuFhHWUrUOH2h33Wso=
 		</data>
-		<key>Headers/FPhiWidget+undocumentedProperties.h</key>
-		<data>
-		a2V6tlgP4LKDhT96p26I34OpraQ=
-		</data>
-		<key>Headers/FPhiWidgetDocumentLoader.h</key>
-		<data>
-		bZgP+9eBu1mQyt/vyMLDXPxkt/w=
-		</data>
-		<key>Headers/FPhiWidgetDocumentManager.h</key>
-		<data>
-		XkAEXyx+BuYFY6FDnzA8bNPiMig=
-		</data>
-		<key>Headers/FPhiWidgetError.h</key>
-		<data>
-		+vFlCA/CQA6HNZRS/X4XT4DGxhI=
-		</data>
-		<key>Headers/FPhiWidgetFrameObj.h</key>
-		<data>
-		MocTVNFPlYJpADoo4smPMgKCj0M=
-		</data>
-		<key>Headers/FPhiWidgetOCRLineInfo.h</key>
-		<data>
-		lODQN3exQdo9sIjtrxpMj4dSkBo=
-		</data>
-		<key>Headers/FPhiWidgetProtocol.h</key>
-		<data>
-		u7cwiDiH7GLpxzcYtFRMCg6u+GQ=
-		</data>
-		<key>Headers/FPhiWidgetResourceManager.h</key>
-		<data>
-		/Vq5AzfP8lxzDa0dlX4KGUsIRP0=
-		</data>
-		<key>Headers/FPhiWidgetSetupLoader.h</key>
-		<data>
-		D/3DWXaxIpIlxbNpG6gjFC+1wU8=
-		</data>
-		<key>Headers/FPhiWidget_Custom.h</key>
+		<key>Headers/FPhiSelphID_Custom.h</key>
 		<data>
 		fDDZJz4caiP3sylSFWFRAivCNbY=
 		</data>
@@ -110,7 +90,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LB1FnC5kMNDo7Y2j2LbOH/2m9Cg=
+		WT8Ro5UoSEDePFaqIU/GTD3nf6s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -119,6 +99,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Assets/graphselphid.xml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ix6fKkXLVfdIccNih9zNi/+FOxQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			IHtpTnu5Z63gcC/7ErANCt62GtmTx8xs/Aywhp0S94I=
+			</data>
+		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<dict>
 			<key>hash</key>
@@ -240,15 +231,48 @@
 			1BmNIDByQ/vxaGDbZwB03v0jfZVCXwkY/kZhXeqchUs=
 			</data>
 		</dict>
+		<key>Headers/FPhiSelphIDError.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+vFlCA/CQA6HNZRS/X4XT4DGxhI=
+			</data>
+			<key>hash2</key>
+			<data>
+			ty81+lFSlmHCDyYUUioGMoLY0EolB7/yfYLxfuszySM=
+			</data>
+		</dict>
+		<key>Headers/FPhiSelphIDFrameObj.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5Dz3rnODLiC46D6x8BpatQYcpaU=
+			</data>
+			<key>hash2</key>
+			<data>
+			LIStkrQTYwLckE1gQRXlC1MMh7ovfOZOxldwxxfRE1k=
+			</data>
+		</dict>
+		<key>Headers/FPhiSelphIDProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			affLrb3k4Pj/zwJ+iQIEGAZFbc4=
+			</data>
+			<key>hash2</key>
+			<data>
+			S2F5BDT3PhJAERHWJwdcwco02j48VwnJop+EaqvXd3Y=
+			</data>
+		</dict>
 		<key>Headers/FPhiSelphIDWidget.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZxPSxhoXa2coRj4lElCQStlqJoY=
+			HTzFaYLMZ0KWt6zlY/lF8BDFsig=
 			</data>
 			<key>hash2</key>
 			<data>
-			S4OHFXqlfW778A0UFO7qg8o4X/a3m5vlnQKtkq6+P1s=
+			MOsg69sGi9gQflGbRetJKh1nUAWx1TqX9vPWYSg+Cis=
 			</data>
 		</dict>
 		<key>Headers/FPhiSelphIDWidgetExtractionData.h</key>
@@ -266,113 +290,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			m+SlqhI6+mCVbBlVWOGc4Uh8jIA=
+			0KHd3iMTChuFhHWUrUOH2h33Wso=
 			</data>
 			<key>hash2</key>
 			<data>
-			evlCrDV9ABnyKN86JbzUrOI84KnOYwWlrXSID1ekJ58=
+			r1qr5NSPSyog3e2/44h2/vIqTndOGGLxW6KIEWeaUzM=
 			</data>
 		</dict>
-		<key>Headers/FPhiWidget+undocumentedProperties.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			a2V6tlgP4LKDhT96p26I34OpraQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			3CQf8L6wG1vsv88dktuCbkeruFAivB/a5Tg4PrgGmw8=
-			</data>
-		</dict>
-		<key>Headers/FPhiWidgetDocumentLoader.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bZgP+9eBu1mQyt/vyMLDXPxkt/w=
-			</data>
-			<key>hash2</key>
-			<data>
-			p3tIQ16UFxhYvWCC1ICpaONQV0tN6YQcSaGpmzq8+J0=
-			</data>
-		</dict>
-		<key>Headers/FPhiWidgetDocumentManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XkAEXyx+BuYFY6FDnzA8bNPiMig=
-			</data>
-			<key>hash2</key>
-			<data>
-			YaeoelyhJBX1QwtS0ieF38aPsOhVbazUlhQ6ucKZoas=
-			</data>
-		</dict>
-		<key>Headers/FPhiWidgetError.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+vFlCA/CQA6HNZRS/X4XT4DGxhI=
-			</data>
-			<key>hash2</key>
-			<data>
-			ty81+lFSlmHCDyYUUioGMoLY0EolB7/yfYLxfuszySM=
-			</data>
-		</dict>
-		<key>Headers/FPhiWidgetFrameObj.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MocTVNFPlYJpADoo4smPMgKCj0M=
-			</data>
-			<key>hash2</key>
-			<data>
-			Tnaqjcdr/ovltZpsncKCoxEz+gWbanl1G9AyESmnte8=
-			</data>
-		</dict>
-		<key>Headers/FPhiWidgetOCRLineInfo.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lODQN3exQdo9sIjtrxpMj4dSkBo=
-			</data>
-			<key>hash2</key>
-			<data>
-			MOtRxix0llDGyTkLZURzFAIbrQnqzvZ80BXTsc3OrMU=
-			</data>
-		</dict>
-		<key>Headers/FPhiWidgetProtocol.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			u7cwiDiH7GLpxzcYtFRMCg6u+GQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			QjxVOCUyhUDZSVxsQ23BiHd/Nt+0z+/kN/6DP9+iaNc=
-			</data>
-		</dict>
-		<key>Headers/FPhiWidgetResourceManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/Vq5AzfP8lxzDa0dlX4KGUsIRP0=
-			</data>
-			<key>hash2</key>
-			<data>
-			aAPuFE9dbJPX35XxfSwRIUFnese1edPBdp5MmhzisgU=
-			</data>
-		</dict>
-		<key>Headers/FPhiWidgetSetupLoader.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			D/3DWXaxIpIlxbNpG6gjFC+1wU8=
-			</data>
-			<key>hash2</key>
-			<data>
-			tF2FtSEEqlyt8zJ3f1dnXgEfXkHfZ8Lo2wfeFHuRF8g=
-			</data>
-		</dict>
-		<key>Headers/FPhiWidget_Custom.h</key>
+		<key>Headers/FPhiSelphID_Custom.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
