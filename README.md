@@ -187,8 +187,8 @@ func showDocumentWidget() {
 
     }
 }
-
-    
+```
+ 
  Objective-C
  
  ``` Objective-C
@@ -281,6 +281,7 @@ func showDocumentWidget() {
 - (void)CaptureCancelled {
     NSLog(@"Widget - Extraction cancelled");
 }
+
 
  
  
