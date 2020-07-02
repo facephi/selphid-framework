@@ -91,7 +91,12 @@ typedef NS_ENUM(NSUInteger, FPhiSelphIDWidgetScanMode) {
 @property (nonatomic) NSString *locale;
 
 
-    	
+/**
+ Sets the definition of the document models that the widget will be able to scan.
+ This property overrides the definition inside resourcesBundle zip
+ */
+@property (nonatomic) NSString *documentModels;
+
 /**
  Initialize a new user control object.
  param frontCameraIfAvailable: By default rear camera used. If device's front camera is available and frontCameraIfAvailable is true, front camera is used, and include credentials for initialize firebase.
