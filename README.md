@@ -1,4 +1,3 @@
-
 ![galeria-selphid-logo](https://user-images.githubusercontent.com/1539469/83532587-bd1a2380-a4ee-11ea-860d-8152d7680175.png)
 
 # Selphid widget for iOS
@@ -284,9 +283,3 @@ func showDocumentWidget() {
 
 
  
- 
- 
- 
-    
-
-
