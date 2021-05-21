@@ -10,11 +10,11 @@
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/Info.plist</key>
 		<data>
-		ykSYqYpxtGHgkKQE5ubdsrIceXw=
+		g4RsUjM1iu2xTDgurGm38VxUo3U=
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		eWiRH7gOWXYisLaiXgGMn0hAk+c=
+		qDv7yPTnDHpP04ziFNTeFbIzgno=
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		bsDM555ofMzxGbFOEyZ00qiGZfs=
+		ivPeFhzcWwXMf3XJH0jefWtgKX0=
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		AdWPAY1NlLEKGAf+fZR7NRaMcBc=
+		2yHf9f2fIYlisJtsKWXFSZ8TI4M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -178,22 +178,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ykSYqYpxtGHgkKQE5ubdsrIceXw=
+			g4RsUjM1iu2xTDgurGm38VxUo3U=
 			</data>
 			<key>hash2</key>
 			<data>
-			2sRqOIkCiH8UFfBosSE8kVyTbWs4wWa0pb2yoZECQoU=
+			gcZrX2QXxQ53SFei4XPKZWBTam3R/2Kll8a6WBHokFI=
 			</data>
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eWiRH7gOWXYisLaiXgGMn0hAk+c=
+			qDv7yPTnDHpP04ziFNTeFbIzgno=
 			</data>
 			<key>hash2</key>
 			<data>
-			912FjGzKgmZ14gmTcKxyGncG0SaZm3ZPncg0CVe+QfE=
+			aCNX3F/gA68JfgeJnz2DObmrsMsdfucsujbtQEMBl7g=
 			</data>
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -211,11 +211,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bsDM555ofMzxGbFOEyZ00qiGZfs=
+			ivPeFhzcWwXMf3XJH0jefWtgKX0=
 			</data>
 			<key>hash2</key>
 			<data>
-			VZYrp2xnTuOkTNE30gTX3L0Hp5y6v8SnP2ivgaFwTRo=
+			/aXlN0N/HwUVDYXW2vqZA2IHKLPDzcL7QNpCQcpEF70=
 			</data>
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/_CodeSignature/CodeResources</key>
