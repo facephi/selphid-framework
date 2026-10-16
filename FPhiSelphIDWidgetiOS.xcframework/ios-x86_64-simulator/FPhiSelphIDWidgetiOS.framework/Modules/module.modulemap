@@ -1,6 +1,0 @@
-framework module FPhiSelphIDWidgetiOS {
-  umbrella header "FPhiSelphIDWidgetios.h"
-  export *
-
-  module * { export * }
-}
